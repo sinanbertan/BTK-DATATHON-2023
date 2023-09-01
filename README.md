@@ -87,6 +87,8 @@ The following tools were used for this analysis:
 
 ## Conclusion 
 
-* After exploratory analysis and visualization of the data sets, I used clustering algorithms to set the target tags based on the data, then added the tags I found to the data and made predictions using the classification algorithms with the final data. As a result of these predictions, I chose the model that gave the best result and adjusted its hyperparameters. Finally, I made predictions on the test dataset and saved these predictions as a csv file. I entered the contest by uploading this file via kaggle. I got the best accuracy result with the logistic regression model. The result I obtained with the logistic regression model was 98.62%.
+* After exploratory analysis and visualization of the data sets, I used clustering algorithms to set the target tags based on the data, then added the tags I found to the data and made predictions using the classification algorithms with the final data. As a result of these predictions, I chose the model that gave the best result and adjusted its hyperparameters. Finally, I made predictions on the test dataset and saved these predictions as a csv file. I entered the contest by uploading this file via kaggle. I got the best accuracy result with the logistic regression model. The result I obtained with the logistic regression model was 98.53%.
+
+![img](score.png)
 
 
