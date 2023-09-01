@@ -2,6 +2,8 @@
 #  BTK DATATHON 2023
 - This project focuses on prediction of customers segments according to given datasets. I made this project for DATATHON orginized by BTK Akademi.The project includes machine learning clustring,classification, exploratory data analysis (EDA), and data visualization techniques to gain insights into the dataset and understand its patterns. The project uses  train.csv,test_x.csv datasets, which can be downloaded from Kaggle: https://www.kaggle.com/competitions/datathon2023/data
 
+- ![img](https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/b7ffad66-04a1-4227-9db2-865a87ada5a6/datathon+2023_BANNER.png?t=1689860501481)
+
 
 
 ## DATA CONTENT
